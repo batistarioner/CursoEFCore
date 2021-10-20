@@ -1,0 +1,6 @@
+# NET Core Projetct
+bin
+obj
+.vscode
+.vs
+.DS_Store
